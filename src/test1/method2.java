@@ -1,4 +1,4 @@
-package method;
+package test1;
 
 public class method2 {
 
